@@ -37,3 +37,6 @@ d. When a user clicks on a city card it should open a page to show weather info
 for that city
 
 2. A page to show weather information.
+
+# weather-app
+weather app , user can write their city name according to their need..it show the city temperature ,also persist the city into the list.. 
